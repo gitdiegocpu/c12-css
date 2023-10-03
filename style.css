@@ -1,0 +1,27 @@
+body{
+    background-color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#box{
+    background-color: aqua;
+    width: 300px;
+    height: 200px;
+    border: 2px solid yellow;
+    margin: auto;
+    border-radius: 300px;
+}
+.box__text{
+    padding: 100px;
+}
+#circle{
+    background-color: aqua;
+    width: 300px;
+    height: 200px;
+    border: 2px solid yellow;
+    margin: auto;
+    border-radius: 300px;
+}
+.circle__text{
+    padding: 100px;
+
+}
